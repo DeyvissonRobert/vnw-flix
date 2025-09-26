@@ -1,7 +1,21 @@
 header {
-  background-color: #f00;
+  background-color: red;
 }
 
 img {
   width: 300px;
+}
+
+h2 {
+  background-color: burlywood;
+}
+
+* {
+  margin: 0;
+  pad: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  background-color: dimgray;
 }/*# sourceMappingURL=style.css.map */
